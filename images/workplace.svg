@@ -1,16 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="100" height="100">
-  <linearGradient id="a" x1="24" x2="24" y1="42" y2="6" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#0D61A9"/>
-    <stop offset="1" stop-color="#16A75C"/>
-  </linearGradient>
-  <path fill="url(#a)" d="M24 6C14.06 6 6 14.06 6 24s8.06 18 18 18 18-8.06 18-18S33.94 6 24 6zm0 30c-6.63 0-12-5.37-12-12s5.37-12 12-12 12 5.37 12 12-5.37 12-12 12z"/>
-  <linearGradient id="b" x1="24" x2="24" y1="32" y2="16" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#E4A672"/>
-    <stop offset=".04" stop-color="#E2A06C"/>
-    <stop offset=".29" stop-color="#D78A4C"/>
-    <stop offset=".54" stop-color="#CF7B35"/>
-    <stop offset=".79" stop-color="#CB7127"/>
-    <stop offset="1" stop-color="#CA6E22"/>
-  </linearGradient>
-  <circle cx="24" cy="24" r="8" fill="url(#b)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100">
+  <circle cx="12" cy="12" r="10" fill="#0D61A9"/>
+  <circle cx="12" cy="12" r="6" fill="#E4A672"/>
 </svg>

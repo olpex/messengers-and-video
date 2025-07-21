@@ -11,6 +11,10 @@
     --telegram-color: #0088cc;
     --zoom-color: #2d8cff;
     --meet-color: #00897b;
+    --teams-color: #5059C9;
+    --workplace-color: #0D61A9;
+    --slack-color: #4A154B;
+    --discord-color: #5865F2;
     --shadow-color: rgba(0, 0, 0, 0.1);
 }
 
@@ -25,6 +29,10 @@
     --telegram-color: #1A9BDD;
     --zoom-color: #3E9CFF;
     --meet-color: #00A99D;
+    --teams-color: #6169D9;
+    --workplace-color: #1D71B9;
+    --slack-color: #5A255B;
+    --discord-color: #6875FF;
     --shadow-color: rgba(0, 0, 0, 0.3);
 }
 
@@ -330,6 +338,22 @@ nav ul li a.active:after {
 
 .platform-icon.telegram {
     background-color: var(--telegram-color);
+}
+
+.platform-icon.microsoft-teams {
+    background-color: var(--teams-color);
+}
+
+.platform-icon.workplace {
+    background-color: var(--workplace-color);
+}
+
+.platform-icon.slack {
+    background-color: var(--slack-color);
+}
+
+.platform-icon.discord {
+    background-color: var(--discord-color);
 }
 
 .platform-icon.zoom {
